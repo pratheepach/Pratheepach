@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Pratheepa
 
 
-- 🔭 I work as a Research analyst, I'm 
+- 🔭 I work as a Research analyst, where I use data analysis and statistical modeling techniques which helped my clients to develop strategies.
 - 🌱 I’m currently learning Python, PowerBI
 - 👯 I’m looking to collaborate on Machine Learning
 - 🤔 I’m looking for help with machine learning algorithms
